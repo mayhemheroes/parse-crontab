@@ -3,3 +3,4 @@ target: next
 duration: 600
 cmds:
     - cmd: /src/mayhem/fuzz_next.py
+      libfuzzer: true
