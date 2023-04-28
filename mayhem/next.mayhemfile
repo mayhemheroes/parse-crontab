@@ -2,4 +2,4 @@ project: parse-crontab
 target: next
 duration: 600
 cmds:
-    - cmd: fuzz_next.py
+    - cmd: /src/mayhem/fuzz_next.py
